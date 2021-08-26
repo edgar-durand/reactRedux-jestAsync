@@ -1,0 +1,14 @@
+{
+    "id": 1,
+    "name": "Shoes",
+    "cost": 100,
+    "department": {
+        "id": 1,
+        "name": "Clothes"
+    },
+    "category": {
+        "id": 3,
+        "name": "Men's clothes",
+        "departmentId": 1
+    }
+}
